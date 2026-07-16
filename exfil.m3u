@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,cve35032-filetest
+/home/ikka123/.config/jellyfin/data/data/jellyfin.db
