@@ -1,0 +1,20 @@
+[
+  {
+    "guid": "11111111-2222-3333-4444-555555555555",
+    "name": "PocPlugin",
+    "description": "Security research PoC plugin - patch re-verification",
+    "overview": "PoC",
+    "owner": "poc",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.3",
+        "changelog": "patch re-verify",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/levelup786/whatbox-poc-verify-2026/main/pocplugin_1.0.0.3.zip",
+        "checksum": "3e47c90b2c865b0849dcf7d1a988feac",
+        "timestamp": "2026-07-16T14:51:00Z"
+      }
+    ]
+  }
+]
